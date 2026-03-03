@@ -1,0 +1,11 @@
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.csproj.AssemblyReference.cache
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.LabReportGUI.resources
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.Properties.Resources.resources
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.csproj.GenerateResource.cache
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\bin\Debug\LabReportGenerator.exe.config
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\bin\Debug\LabReportGenerator.exe
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\bin\Debug\LabReportGenerator.pdb
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.exe
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.pdb
+C:\Users\Eva\Desktop\ооап 2 семестр\LabReportGenerator\LabReportGenerator\obj\Debug\LabReportGenerator.exe.config
